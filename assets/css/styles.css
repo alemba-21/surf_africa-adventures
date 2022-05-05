@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  
+  body{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+  }
+#sectBoutMe{
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  #sectBoutMe > .boutme{
+    display: flex;
+  }
+  
+  #sectBoutMe > .boutme > .leftside, .rightside{
+    width: 50%;
+  }
+  
+  #sectBoutMe > .boutme > .leftside{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+  }
+  
+  #sectBoutMe > .boutme > .rightside{
+    padding-right: 30px;
+  }
+  
+  #sectBoutMe > .boutme > .rightside > button{
+    background-color: cornflowerblue;
+    padding: 5px;
+    color: white;
+  }
