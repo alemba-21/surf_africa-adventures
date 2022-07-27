@@ -24,9 +24,9 @@ const Footer = () => {
                 <h4>About the company</h4>
                 <p>This is the best company to liase with during your vacation. It provides efficient services for our clients. We can't wait to serve you.</p>
                 <div className="social">
-                <h4><FaFacebook size={30} style={{color:"white", marginRight:"1rem"}}/>surfAfrica</h4>
-                <h4><FaTwitter size={30} style={{color:"white", marginRight:"1rem"}}/>surfAfrica@gmail</h4>
-                <h4><FaLinkedin size={30} style={{color:"white", marginRight:"1rem"}}/>surfAfrica.com</h4>
+                <FaFacebook size={30} style={{color:"white", marginRight:"1rem"}}/>
+                <FaTwitter size={30} style={{color:"white", marginRight:"1rem"}}/>
+                <FaLinkedin size={30} style={{color:"white", marginRight:"1rem"}}/>
                 </div>
             </div>
         </div>

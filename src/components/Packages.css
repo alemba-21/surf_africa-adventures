@@ -1,0 +1,61 @@
+.packages{
+    width: 100%;
+    padding: 6rem 1rem;
+    background-color: black;
+
+}
+
+.card-container{
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+}
+
+.card{
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.card:hover{
+    background-color: #141414;
+}
+
+.card h3{
+    padding: 1rem;
+}
+
+.bar{
+    border-bottom: 2px solid #eee;
+    width: 70%;
+    margin: 1.5rem auto;
+    display: block;
+}
+
+.btc{
+    font-size: 4rem;
+    font-weight: 600;
+    padding: 1rem 0;
+}
+
+btn{
+    display: block;
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.card p{
+    font-size: 1.4rem;
+    padding: 10px 0;
+}
+
+@media screen and (max-width: 740px) {
+    .card-container{
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+}

@@ -16,7 +16,6 @@
   
   .nav-links{
     display: flex;
-  
   }
   
   .nav-links li{
@@ -25,7 +24,6 @@
   
   .nav-links li a{
     font-size: 20px;
-  
   }
 
   .hamburger{
