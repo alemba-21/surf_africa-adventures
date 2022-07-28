@@ -14,7 +14,7 @@
     
 }
 
-.card-1, .card-2, .card-3{
+.kir{
     border: 1px solid white;
     color: white;
     text-align: center;
@@ -22,11 +22,11 @@
     
 }
 
-.card:hover{
+.kir:hover{
     background-color: #141414;
 }
 
-.card h3{
+.kir h3{
     padding: 1rem;
 }
 
@@ -43,9 +43,10 @@
     padding: 1rem 0;
 }
 
-.card p{
+.kir p{
     font-size: 1.4rem;
     padding: 10px 0;
+    margin-bottom: 20px;
 }
 
 @media screen and (max-width: 740px) {
