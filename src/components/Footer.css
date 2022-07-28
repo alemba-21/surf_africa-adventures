@@ -41,8 +41,12 @@
 .social{
     margin-top: 1rem;
     display: flex;
-    padding: 5px;
+    padding: 15px;
+    justify-content: space-around;
+    background-color: hsl(0, 59%, 41%, 0.2);
+    border-radius: 20px;
 }
+
 
 h4{
     font-size: 15px;

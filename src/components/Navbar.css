@@ -20,6 +20,7 @@
   
   .nav-links li{
     padding: 0 1rem;
+    list-style: none;
   }
   
   .nav-links li a{

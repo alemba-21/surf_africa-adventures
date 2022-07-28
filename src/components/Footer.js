@@ -21,8 +21,6 @@ const Footer = () => {
                 </div>
             </div>
             <div className="right">
-                <h4>About the company</h4>
-                <p>This is the best company to liase with during your vacation. It provides efficient services for our clients. We can't wait to serve you.</p>
                 <div className="social">
                 <FaFacebook size={30} style={{color:"white", marginRight:"1rem"}}/>
                 <FaTwitter size={30} style={{color:"white", marginRight:"1rem"}}/>

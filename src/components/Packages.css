@@ -10,14 +10,16 @@
     margin: auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 40px;
+    grid-gap: 10px;
+    
 }
 
-.card{
+.card-1, .card-2, .card-3{
     border: 1px solid white;
     color: white;
     text-align: center;
     padding: 1rem;
+    
 }
 
 .card:hover{
@@ -36,15 +38,9 @@
 }
 
 .btc{
-    font-size: 4rem;
+    font-size: 50px;
     font-weight: 600;
     padding: 1rem 0;
-}
-
-btn{
-    display: block;
-    width: 80%;
-    margin: 2rem auto;
 }
 
 .card p{

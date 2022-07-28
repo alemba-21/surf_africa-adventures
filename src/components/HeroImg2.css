@@ -1,7 +1,7 @@
 .hero-img{
     width: 100%;
     background-color: rgba(0, 0 , 0, 0.5);
-    height: 100vh;
+    height: 55vh;
     position: relative;
 }
 
@@ -9,6 +9,7 @@
     content: "";
     background: url(../assets/pexels-eric-sanman-1365425.jpg);
     background-size: cover;
+    background-position: center;
     background-position: center-top;
     height: 100%;
     width: 100%;
@@ -26,6 +27,11 @@
 .hero-img p{
     font-size: 1.4rem;
     text-align: center;
+    text-transform: capitalize;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 20px;
+    line-height: 50px;
 }
 
 .heading{

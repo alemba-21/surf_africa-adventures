@@ -7,7 +7,7 @@ const Packages = () => {
   return (
     <div className="Packages">
         <div className="card-container">
-            <div className="card">
+            <div className="card-1">
                 <h3>Silver</h3>
                 <span className="bar"></span>
                 <p className="btc">$500</p>
@@ -18,7 +18,7 @@ const Packages = () => {
                 <p>- Fun Activities -</p>
                 <Link to="/Booking" className="btn-1">Book Now</Link>
             </div>
-            <div className="card">
+            <div className="card-2">
                 <h3>Gold</h3>
                 <span className="bar"></span>
                 <p className="btc">$1000</p>
@@ -29,7 +29,7 @@ const Packages = () => {
                 <p>- Fun Activities -</p>
                 <Link to="/Booking" className="btn-1">Book Now</Link>
             </div>
-            <div className="card">
+            <div className="card-3">
                 <h3>Diamond</h3>
                 <span className="bar"></span>
                 <p className="btc">$2000</p>
