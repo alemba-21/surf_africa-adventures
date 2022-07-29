@@ -39,9 +39,6 @@ const Navbar = () => {
           <li>
             <Link to="/Booking">Booking</Link>
           </li>
-          <li>
-            <Link to="/Contact">Contact</Link>
-          </li>
         </ul>
         <div className='hamburger' onClick={handleClick}>
           {click ? (<FaTimes size={20} style={{color:'white'}}/> ) : (<FaBars size={20} style={{color:'white'}}/>)}
