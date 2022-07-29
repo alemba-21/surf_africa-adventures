@@ -42,7 +42,9 @@
 }
 
 .hero .content p{
-    font-size: 1.4rem;
+    font-size: 3rem;
+    word-spacing: 20px;
+    line-height: 70px;
     text-transform: uppercase;
 }
 

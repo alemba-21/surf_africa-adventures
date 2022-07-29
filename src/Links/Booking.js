@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar';
 import HeroImg2 from '../components/HeroImg2';
 import Packages from '../components/Packages';
 
+
 const Booking = () => {
   return (
     <div>

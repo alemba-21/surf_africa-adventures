@@ -9,7 +9,7 @@ const Home = () => {
     <div>
       <Navbar />
       <HeroImg />
-      <HeroImg2 heading="About" text="SurfAfrica Adventures is the best company to liase with during your vacation. It provides efficient services for our clients. We can't wait to serve you."/>
+      <HeroImg2 heading="About" text="SurfAfrica Adventures is the best company to liase with during your vacation. It provides efficient services for our clients."/>
       <Footer />
   </div>
   );
