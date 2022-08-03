@@ -3,7 +3,13 @@
 ## By Alemba Alex
 
 ## Screenshot
- 
+
+ ![image](./src/assets/Screenshot%20from%202022-08-03%2010-31-27.png)
+ ![image](./src/assets/Screenshot%20from%202022-08-03%2010-31-43.png)
+ ![image](./src/assets/Screenshot%20from%202022-08-03%2010-31-53.png)
+ ![image](./src/assets/Screenshot%20from%202022-08-03%2010-32-01.png)
+ ![image](./src/assets/Screenshot%20from%202022-08-03%2010-32-27.png)
+ ![image](./src/assets/Screenshot%20from%202022-08-03%2010-32-33.png)
 
 ## Table of Content
 
@@ -67,7 +73,7 @@ As a user of the application you'll get know places with beautiful adventures ar
 
 ### Live Link
 
--Click this link to view the application: https://alemba-21.github.io/Wellfit_fitness_club/
+-Click this link to view the application: https://surf-africa-adventures.netlify.app/
 
 ### Technology Used
 
