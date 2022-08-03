@@ -1,6 +1,7 @@
 import "./Site.css";
 import React from 'react'
 import ale1 from "../assets/1.jpg"
+import { Link } from "react-router-dom";
 
 const Site = () => {
   return (
@@ -12,7 +13,7 @@ const Site = () => {
                 <h3>Tanzania</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -20,7 +21,7 @@ const Site = () => {
                 <h3>Egypt</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -28,7 +29,7 @@ const Site = () => {
                 <h3>Seychells</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -36,7 +37,7 @@ const Site = () => {
                 <h3>Ethiopia</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -44,7 +45,7 @@ const Site = () => {
                 <h3>South Africa</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -52,7 +53,7 @@ const Site = () => {
                 <h3>Namibia</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -60,7 +61,7 @@ const Site = () => {
                 <h3>Mauritius</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -68,7 +69,7 @@ const Site = () => {
                 <h3>Zambia and Zimbabwe</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -76,7 +77,7 @@ const Site = () => {
                 <h3>Botswana</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         <div className="afrikana">
@@ -84,7 +85,7 @@ const Site = () => {
                 <h3>DRC congo</h3>
                 <span className="bar"></span>
                 <img className="Tz" src={ale1} alt="Tz" />
-                <button className="btn-2">More Info</button>
+                <Link to="/Contact" className="btn-2">More Info</Link>
             </div>
         </div>
         </div>
