@@ -4,6 +4,7 @@ import HeroImg from '../components/HeroImg';
 import HeroImg2 from '../components/HeroImg2';
 import Footer from '../components/Footer';
 
+
 const Home = () => {
   return (
     <div>

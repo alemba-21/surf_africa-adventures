@@ -4,6 +4,7 @@ import "./index.css";
 import Adventures from "./Links/Adventures";
 import Booking from "./Links/Booking";
 import Home from "./Links/Home";
+import Contact from "./Links/Contact";
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/Adventures" element={<Adventures />} />
         <Route path="/Booking" element={<Booking />} />
+        <Route path="/Contact" element={<Contact />} />
     </Routes>
   );
 }

@@ -3,7 +3,8 @@ import "./Packages.css"
 import React from 'react'
 import { Link } from "react-router-dom"
 
-const Packages = (Forms) => {
+
+const Packages = () => {
   return (
     <div className="Packages">
         <div className="card-container">
@@ -16,7 +17,7 @@ const Packages = (Forms) => {
                 <p>- Louge -</p>
                 <p>- Food -</p>
                 <p>- Fun Activities -</p>
-                <Link to="Forms" className="btn-1">Book Now</Link>
+                <Link to="/Contact" className="btn-1">Book Now</Link>
             </div>
             <div className="kir">
                 <h3>Gold</h3>
@@ -27,7 +28,7 @@ const Packages = (Forms) => {
                 <p>- Louge -</p>
                 <p>- Food -</p>
                 <p>- Fun Activities -</p>
-                <Link to="/Forms" className="btn-1">Book Now</Link>
+                <Link to="/Contact" className="btn-1">Book Now</Link>
             </div>
             <div className="kir">
                 <h3>Diamond</h3>
@@ -38,7 +39,7 @@ const Packages = (Forms) => {
                 <p>- Louge -</p>
                 <p>- Food -</p>
                 <p>- Fun Activities -</p>
-                <Link to="/Forms" className="btn-1">Book Now</Link>
+                <Link to="/Contact" className="btn-1">Book Now</Link>
             </div>
         </div>
     </div>
