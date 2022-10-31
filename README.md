@@ -45,10 +45,9 @@ As a user of the application you'll get know places with beautiful adventures ar
 
 ## Behaviour Driven Development
 
-|Behaviour |Input   |Output
-|:---------:|:-------:|:-------:|
-|Enter your name | Alemba Alex |    |
-|Enter your Email Address |alembakiragu@gmail.com |    |
+|Name   |Operation | LinkedIn | Email |
+|:---------:|:-------:|:-------:|:----:|
+| Alemba Alex | Frontend Developer and UI/UX Designer | http://www.linkedin.com/in/alex-kiragu-754690219 | alembakiragu@gmail.com |
 
 [Go Back to the top](#surfAfrica-Adventures)
 
